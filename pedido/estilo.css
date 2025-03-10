@@ -1,0 +1,17 @@
+#conteudo {
+    background: #ff9898;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    text-align: center;
+    font-family: cursive;
+}
+.btn{    background: black;
+color: white;
+border: none;
+padding: 10px;
+width: 80px;
+border-radius: 10px;
+}
